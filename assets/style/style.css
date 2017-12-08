@@ -1,0 +1,18 @@
+.body{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+.jumbotron{
+    text-align: center;
+    background-image:url('https://media.giphy.com/media/xTg8BbPcaAP43oVyeY/giphy.gif');
+    
+}
+.setRatingDiv
+{
+    font-size: 36px;
+    text-align: center;
+    color: #701212;
+}
